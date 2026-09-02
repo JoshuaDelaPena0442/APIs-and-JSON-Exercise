@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World");
+            //RonVSKanyeAPI.KanyeQuote();
+
+            //RonVSKanyeAPI.RonQuote();
+
+            OpenWeatherMapAPI.WeatherInfo();
         }
     }
 }
